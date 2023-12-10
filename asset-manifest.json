@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/carui/static/css/main.64425441.css",
+    "main.js": "/carui/static/js/main.b50e6c32.js",
+    "static/js/787.72f210a3.chunk.js": "/carui/static/js/787.72f210a3.chunk.js",
+    "static/media/2010.jpg": "/carui/static/media/2010.b6b3b79b26b635c6b026.jpg",
+    "static/media/1950.jpg": "/carui/static/media/1950.7b4ea6ae9420cd08e576.jpg",
+    "static/media/1970.jpg": "/carui/static/media/1970.5932eebed670f136c170.jpg",
+    "static/media/2000.jpg": "/carui/static/media/2000.2ef766e44e0e8fab4a42.jpg",
+    "static/media/1990.jpg": "/carui/static/media/1990.a45d636dc4f3a5faa417.jpg",
+    "static/media/1960.jpg": "/carui/static/media/1960.0e7f53f548bedc635794.jpg",
+    "static/media/1980.jpg": "/carui/static/media/1980.3ddae78ae05f52a0a7d5.jpg",
+    "static/media/1940.jpg": "/carui/static/media/1940.a73d6ad1a005e2152ba1.jpg",
+    "static/media/1930 (1).jpg": "/carui/static/media/1930 (1).d04820f5443c0b56c2da.jpg",
+    "static/media/landingpage.jpg": "/carui/static/media/landingpage.cf953cfdccc79a5dc5f9.jpg",
+    "static/media/1930.jpg": "/carui/static/media/1930.a7dc1b80c7317c5a8026.jpg",
+    "static/media/2020.jpg": "/carui/static/media/2020.9c74de0fb6493bcc3204.jpg",
+    "static/media/logo.svg": "/carui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/carui/index.html",
+    "main.64425441.css.map": "/carui/static/css/main.64425441.css.map",
+    "main.b50e6c32.js.map": "/carui/static/js/main.b50e6c32.js.map",
+    "787.72f210a3.chunk.js.map": "/carui/static/js/787.72f210a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64425441.css",
+    "static/js/main.b50e6c32.js"
+  ]
+}
